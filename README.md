@@ -1,5 +1,3 @@
-# ttne-grondwater-dashboard
-
 # Configuration
 
 ## Environment variables
